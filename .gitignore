@@ -1,0 +1,11 @@
+# TO JEST KOMENTARZ
+
+#CODESYS
+*.opt
+
+#DopSoft
+*.backup
+
+#Przykład
+*.ods
+plikPominiety.txt
